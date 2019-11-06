@@ -8,4 +8,4 @@ La cartella `lezioni` contiene i notebook visti a lezione.
 
 La cartella `esercizi` contiene fogli di esercizi (in PythonTeX).
 
-Si consiglia di navigare la repositoria con [Binder](https://mybinder.org/v2/gh/domenicozambella/Geo20/master)(anche se ci mette del tempo a caricare).`. 
+Si consiglia di navigare la repositoria con [Binder](https://mybinder.org/v2/gh/domenicozambella/Geo20/master) (anche se ci mette del tempo a caricare). 
